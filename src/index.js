@@ -1,2 +1,2 @@
 /* eslint-disable no-console */
-console.log('hi');
+console.log('listening on port 3000');
